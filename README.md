@@ -1,6 +1,10 @@
 ### Hi there 👋 I'm MATT
 
+<br />
 
+### I am Trainee Software Developer with _nology
+
+<br />
 
 - 🔭 I’m currently a Junior Developer studying with _Nology
 - 🌱 I’m currently learning CSS,HTML,SCSS,Javascript,React,Api's,Java.
