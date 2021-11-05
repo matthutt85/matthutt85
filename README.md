@@ -43,4 +43,5 @@
 <img align="left" alt="Matt's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthutt85" />
 
 </details>
+
 [linkedin]: https://www.https://www.linkedin.com/in/matthew-hutt/
