@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm MATT
-
 <br />
 
 ### I am Trainee Software Developer with _nology
