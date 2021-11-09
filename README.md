@@ -40,7 +40,8 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Matt's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthutt85" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthutt85)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
