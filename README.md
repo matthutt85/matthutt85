@@ -47,4 +47,4 @@
 
 </details>
 
-[linkedin]: https://www.https//www.linkedin.com/in/matthew-hutt/
+[linkedin]: https://www.linkedin.com/in/matthew-hutt/
