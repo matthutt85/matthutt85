@@ -10,8 +10,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...[linkedIn]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I played a gig at Wembley for the FA Cup final 
 
 <br />
 
