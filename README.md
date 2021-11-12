@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm MATT
 <br />
 
-### I am Junior Software Developer 
+### I am a Junior Software Developer 
 
 <br />
 
