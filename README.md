@@ -1,16 +1,17 @@
 ### Hi there 👋 I'm MATT
 <br />
 
-### I am a Junior Software Developer 
+### I am a SOFTWARE COACH / SOFTWARE DEVELOPER
 
 <br />
 
-- 🔭 I’m a recent graduate from the Nology Software Developer Course
-- 🌱 I’m currently learning CSS,HTML,SCSS,Javascript,React,Api's,Java.
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ...[linkedIn]
-- ⚡ Fun fact: ... I played a gig at Wembley for the FA Cup final 
+- I'm currently a Software Coach with Baltic Apprenticeships where I teach Lvl 3 and Lvl 4 software programmes
+- I began learning by myself for a year before I joined the Nology software course to improve my learning
+- I’m currently learning CSS,HTML,SCSS,Javascript,React,Api's,Java.
+- I’m looking to collaborate on open source
+- Ask me about ... Anything
+- How to reach me: ...[linkedIn]
+- Fun fact: ... I played a gig at Wembley for the FA Cup final 
 
 <br />
 
