@@ -7,7 +7,7 @@
 
 - I'm currently a Software Coach with Baltic Apprenticeships where I teach Lvl 3 and Lvl 4 software programmes
 - I began learning by myself for a year before I joined the Nology software course to improve my learning
-- I’m currently learning CSS,HTML,SCSS,Javascript,React,Api's,Java.
+- I am proficient in HTML, SCSS/CSS, React, JavaScript and have experience with C#, php, Java, PostgreSQL and Python.
 - I’m looking to collaborate on open source
 - Ask me about ... Anything
 - How to reach me: ...[linkedIn]
